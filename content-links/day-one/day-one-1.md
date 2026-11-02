@@ -1,5 +1,8 @@
 ### Day 1
 
+https://learn.microsoft.com/en-us/training/paths/purview-implement-information-protection/
+
+
 [Data classification](https://learn.microsoft.com/en-us/purview/data-classification-overview)
 
 [Data mapping](https://learn.microsoft.com/en-us/purview/data-map-classification)

@@ -1,6 +1,8 @@
 
 ### Day 3
 
+https://learn.microsoft.com/en-us/training/paths/purview-implement-manage-dlp/
+
 [Enterprise DLP in hybrid and multicloud](https://techcommunity.microsoft.com/discussions/microsoft-365/building-enterprise-grade-dlp-with-microsoft-purview-in-hybrid--multi-cloud-envi/4432572)
 
 [Purview data governance](https://learn.microsoft.com/en-us/purview/purview)

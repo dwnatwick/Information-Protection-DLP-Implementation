@@ -12,6 +12,6 @@
 [SC-5003](https://github.com/MicrosoftLearning/SC-5003_Information-protection-and-Data-Loss-Prevention)
 
 
-
+[Links to Content Folders](https://github.com/dwnatwick/Information-Protection-DLP-Implementation/tree/main/content-links)
 
 

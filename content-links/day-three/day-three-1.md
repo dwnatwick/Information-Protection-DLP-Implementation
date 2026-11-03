@@ -1,20 +1,15 @@
 
 ### Day 3
 
-https://learn.microsoft.com/en-us/training/paths/purview-implement-manage-dlp/
+[Alerting on policy violations](https://learn.microsoft.com/en-us/purview/compliance-manager-alert-policies)
 
-[Enterprise DLP in hybrid and multicloud](https://techcommunity.microsoft.com/discussions/microsoft-365/building-enterprise-grade-dlp-with-microsoft-purview-in-hybrid--multi-cloud-envi/4432572)
+[Investigating alerts](https://learn.microsoft.com/en-us/purview/dlp-alert-investigation-learn)
 
-[Purview data governance](https://learn.microsoft.com/en-us/purview/purview)
+[Policy exceptions](https://techcommunity.microsoft.com/discussions/azurepurview/purview-exceptions/4030272)
 
-[DLP policies](https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp)
+Information protection and DLP Applied Skill
 
-[Create and deploy DLP](https://learn.microsoft.com/en-us/purview/dlp-create-deploy-policy)
+[Purview AI powered features](https://www.microsoft.com/en-us/security/blog/2023/12/07/new-microsoft-purview-features-use-ai-to-help-secure-and-govern-all-your-data/)
 
-[About Endpoint DLP](https://learn.microsoft.com/en-us/purview/endpoint-dlp-learn-about)
+https://learn.microsoft.com/en-us/training/paths/purview-protect-ai/
 
-[Get started with Endpoint DLP](https://learn.microsoft.com/en-us/purview/endpoint-dlp-getting-started)
-
-[Tips and notifications](https://learn.microsoft.com/en-us/purview/dlp-use-notifications-and-policy-tips)
-
-[Prevention and protection policies](https://learn.microsoft.com/en-us/purview/endpoint-dlp-create-policy-unauthorized-data-sharing)

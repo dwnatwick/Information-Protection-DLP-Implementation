@@ -19,3 +19,4 @@ https://learn.microsoft.com/en-us/training/paths/purview-implement-information-p
 
 [False positive reduction](https://learn.microsoft.com/en-us/purview/deploymentmodels/depmod-reduce-false-positives)
 
+[Information Protection Scanner for Windows File Server](https://learn.microsoft.com/en-us/powershell/azure/aip/setup-information-protection-client-powershell?view=azureipps)
